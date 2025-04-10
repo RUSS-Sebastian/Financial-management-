@@ -1,6 +1,3 @@
-Here's a `README.md` for your personal finance management system project, explaining the features and purpose for visitors on your GitHub profile:
-
----
 
 # 💰 Personal Finance Management System
 
